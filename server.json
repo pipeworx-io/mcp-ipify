@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pipeworx-io/ipify",
+  "title": "Ipify",
+  "description": "ipify: caller IPv4/IPv6 echo. Useful for verifying gateway egress.",
+  "version": "0.1.0",
+  "websiteUrl": "https://pipeworx.io/packs/ipify",
+  "repository": {
+    "url": "https://github.com/pipeworx-io/mcp-ipify",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gateway.pipeworx.io/ipify/mcp"
+    }
+  ]
+}

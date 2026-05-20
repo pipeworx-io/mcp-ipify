@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-ipify",
+  "version": "0.1.0",
+  "description": "ipify: caller IPv4/IPv6 echo. Useful for verifying gateway egress.",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "ipify"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipeworx-io/mcp-ipify"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
