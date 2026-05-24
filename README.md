@@ -1,6 +1,6 @@
 # mcp-ipify
 
-ipify: caller IPv4/IPv6 echo. Useful for verifying gateway egress.
+ipify MCP.
 
 Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 250+ live data sources.
 
