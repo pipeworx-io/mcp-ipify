@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-ipify",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "ipify MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-af2a39a396a02941ab4b8efc1ebd4a42a659bf1d7a3597d0c56209760e13bf90",
-    "sourceCommit": "70cd53748fc9f9a43ed3681d751bfa96e701efd2"
+    "sourceHash": "v1-1cae54c9e1388f267547508f77ae1ec8a48d9c604067974e342347b5d175dbcc",
+    "sourceCommit": "1064560fd9dcd0d6fc2606298c2ba244b3a1fbeb"
   }
 }
