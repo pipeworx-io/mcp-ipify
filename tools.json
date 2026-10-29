@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ipv4",
+    "description": "Caller's IPv4 (gateway egress IP).",
+    "inputSchema": {
+      "type": "object",
+      "properties": {}
+    }
+  },
+  {
+    "name": "ipv6",
+    "description": "Caller's IPv6 (gateway egress IP, IPv4 fallback).",
+    "inputSchema": {
+      "type": "object",
+      "properties": {}
+    }
+  }
+]
