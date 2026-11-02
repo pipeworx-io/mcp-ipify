@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-ipify",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "ipify MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "ipify",
     "gatewaySlug": "ipify",
-    "sourceHash": "v1-bbb77514158495842c24b4309aa216c5ae9164512e85918307d56ffaa898a98e",
-    "sourceCommit": "4844029e402d6bd2fe735add8abf6d46735f8ed5"
+    "sourceHash": "v1-dedbec4c683349cd32ff94dc65f0ca14787da2894a798ea1a3afae1833c84f7d",
+    "sourceCommit": "0ca9712c0ac03bb0121cc7e81b202d0c45ac02ca"
   }
 }
